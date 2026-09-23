@@ -17,3 +17,8 @@ I've had some exposure to this space myself through co-founding an EdTech startu
 # st6rgazing comment
 
 I strongly agree. I feel like AI in education has been demonised to an extent and while it obviously can be harmful to some people and stunt some people's learning and create an over-reliance, it makes learning so much more accessible to so many more people. It also makes it so people can learn so much more without needing to have a teacher and I do think it's incredibly revolutionary.
+
+
+#AditiAdhikari05 Comment
+
+I agree with a lot of this, especially the point about personalized learning. I think the biggest shift software brings to education isn't just digitizing what already exists, but actually adapting to how each student learns instead of forcing everyone through the same pace and format. The part about real-time feedback stood out to me too, since catching a misunderstanding while it's happening feels a lot more useful than finding out about it on a graded assignment days later. I do think accessibility is understated in a lot of these conversations, though, and I'm glad the article brought it up, since good EdTech can genuinely open doors for students who wouldn't otherwise have the same resources.
